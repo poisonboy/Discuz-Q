@@ -37,7 +37,7 @@ DiscuzQV3模板：https://ext.dcloud.net.cn/plugin?id=8488
 * 去除部分无用步骤
 
 ### 使用说明 
- **升级前务必先备份一下旧版的文件**                                                                     
+ **升级前务必先备份一下旧版的文件** 基于20220211版本优化整合，之前的3.0的react版本20211125版本之后的都可以升级 。                                                                     
 1. 建议使用php7.2-php7.4，mysql5.7，nginx 
 2. php安装fileinfo 和exif 扩展，在禁用的函数中删除 putenv、readlink、symlink、shell_exec 
 3. 创建站点数据库选择【MySQL】,【utf8mb4】
